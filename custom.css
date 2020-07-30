@@ -1,0 +1,29 @@
+@import 'https://use.typekit.net/ftw0kvx.css';
+body {
+    font-family: brandon-grotesque, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    text-decoration-color: #093527;
+}
+
+button {
+    background-color: #A7697E;  
+}
+
+.card-body {
+    background-color:#FFFAEF;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: right;
+}
+
+.card-title {
+    background-color:#FFFAEF;
+    color: #093527;
+    text-align: center;
+}
+
+#mission {
+    margin: 50px;
+        color:white;
+        background: rgba(0, 0, 0, 0.5);
+}
